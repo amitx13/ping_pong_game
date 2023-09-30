@@ -8,6 +8,16 @@
 - Java Extension Pack in VSCode
 
 ## 🕹 Game Instructions
+# clone this project using git
+`git clone https://github.com/amitx13/ping_pong_game.git`
+<br>
+# install 
+
+`JDK 17`
+
+`Java Extension Pack in VSCode`
+
+`Run the java code in your VScode`
 
 Player 1
 
